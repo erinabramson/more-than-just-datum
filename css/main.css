@@ -1,0 +1,12 @@
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  background-color: #efefef;
+}
+
+header {
+  background-color: #ddd;
+}
+
+.box {
+  background-color: #fff;
+}
