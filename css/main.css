@@ -7,6 +7,13 @@ header {
   background-color: #ddd;
 }
 
+.searchbar {
+  background-image: url(../images/search.svg);
+  background-size: 1em;
+  background-repeat: no-repeat;
+  background-position: 4px center;
+}
+
 .box {
   background-color: #fff;
 }
@@ -16,5 +23,13 @@ header {
 }
 
 table {
-  min-width: 40em;
+  min-width: 45em;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .search-large {
+    padding-top: 1.3rem;
+  }
+
 }
