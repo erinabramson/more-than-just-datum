@@ -1,5 +1,5 @@
-body {
-  font-family: 'IBM Plex Sans', sans-serif;
+html {
+  font-family: "IBM Plex Sans", sans-serif;
   background-color: #efefef;
 }
 
@@ -9,4 +9,12 @@ header {
 
 .box {
   background-color: #fff;
+}
+
+.logo {
+  max-width: 10em;
+}
+
+table {
+  overflow: auto;
 }
